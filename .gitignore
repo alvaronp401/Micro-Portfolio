@@ -1,0 +1,29 @@
+# Java / Quarkus
+target/
+.mvn/
+.quarkus/
+*.class
+*.log
+*.swp
+*.bak
+.factorypath
+.project
+.settings/
+.classpath
+bin/
+
+# Node / React
+node_modules/
+dist/
+dist-ssr
+*.local
+.vscode/
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Agent Rules (Manter apenas se quiser versionar as instruções do mentor)
+#!.agents/rules
